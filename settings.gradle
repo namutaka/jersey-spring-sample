@@ -1,0 +1,7 @@
+//
+// settings.gradle
+//
+
+// Add sub projects
+include 'common', 'server', 'client'
+
